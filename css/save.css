@@ -1,0 +1,80 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body {
+	font-size: .16rem;
+}
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 微软雅黑;
+    background: url(../img/imges/bg.png) no-repeat;
+    font-weight: bold;
+	position: relative;
+}
+header{
+	margin-top: 2.74rem;
+	margin-left: 1.19rem;
+}
+header img {
+	width: 9rem;
+}
+article{
+	margin-top: 0.5rem;
+	margin-left: 2.7rem;
+}
+footer{
+	margin-top: 3rem;
+	margin-left:2.45rem;
+}
+#ename{
+	margin-top: 1.9rem;
+	margin-left: 1.75rem;
+	position: relative;
+}
+#ename img{
+	position: absolute;
+	top:34px;
+	left: 33px;
+}
+#tip{
+	position: absolute;
+	left:2.9rem;
+	top:9rem;
+	display: none;
+}
+#name{
+	width: 8rem;
+	height: 1.3rem;
+	/*要不要设置成百分之XX？*/
+	color: rgb(164,164,164);
+	font-size: 0.56rem;
+	text-indent: 1.2rem;
+}
+#enum{
+	position:relative;
+	margin-top: 0.5rem;
+	margin-left: 1.75rem;
+}
+#enum img{
+	position: absolute;
+	top: 0.38rem;
+	left: 0.27rem;
+}
+#number{
+	width: 8rem;
+	height: 1.3rem;
+	color: rgb(164,164,164);
+	font-size: 0.56rem;
+	text-indent: 1.2rem;
+}
+.save{
+	cursor: pointer;
+	margin-top: 1rem;
+	margin-left: 1.75rem;
+}
+#search{
+	margin-top: 0.5rem;
+	margin-left:1.75rem;
+}
